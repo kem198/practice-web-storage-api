@@ -1,6 +1,7 @@
 <!-- omit in toc -->
-# Practice - LocalStorage
+# Practice - Web Storage API
 
 ## References
 
-- [Window: localStorage プロパティ - Web API \| MDN](https://developer.mozilla.org/ja/docs/Web/API/Window/localStorage)
+- [ウェブストレージ API - Web API \| MDN](https://developer.mozilla.org/ja/docs/Web/API/Web_Storage_API)
+    - [Window: localStorage プロパティ - Web API \| MDN](https://developer.mozilla.org/ja/docs/Web/API/Window/localStorage)
